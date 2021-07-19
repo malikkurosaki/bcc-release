@@ -3,9 +3,10 @@ _`Probus Developer Team`_
 
 ![gambar logo](assets/images/icon_hor.png)
 
-### release verstion Beta 1.0.0.1
+### release verstion Beta 1.0.0.1  
+[download bcc_beta_1.0.0.apk](https://github.com/malikkurosaki/bcc-release/raw/main/assets/source/bcc_membership_beta_1.0.0.1.apk)
 
-<hr>. 
+<hr>
 
 ### SPLASH SCREEN  
 <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/splash_screen.png?raw=true" width="200">
