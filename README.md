@@ -83,3 +83,5 @@
 
 ### Term Service
 <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/term_service.png?raw=true" width="100">
+
+![whats next](http://static1.squarespace.com/static/5609a7bae4b0fc27049038e6/t/5bdd17392b6a2830d23371e1/1541216059942/What%27s+Next-logo.png?format=1500w)
