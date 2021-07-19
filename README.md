@@ -4,8 +4,18 @@
 
 ![gambar logo](assets/images/icon_hor.png)
 
-### release verstion Beta 1.0.0.1  
+### release version Beta 1.0.0.1  
 - [download bcc_beta_1.0.0.apk](https://github.com/malikkurosaki/bcc-release/raw/main/assets/source/bcc_membership_beta_1.0.0.1.apk)
+
+🇮🇩 What Is New 🇮🇩
+- splash screen 
+- introduce screen
+- simple login with email and password
+- simple register with email and password
+- see the menu list without registering
+- list of nearest outlets
+- member caard
+- etc
 
 <hr>
 
