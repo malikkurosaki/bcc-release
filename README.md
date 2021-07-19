@@ -1,16 +1,14 @@
 # Black Canyon Membership App Release
-_`Probus Developer Team`_
+_`Probus Developer Team`_  
 
 ![gambar logo](assets/images/icon_hor.png)
 
 ### release verstion Beta 1.0.0.1
 
-
 <hr>. 
 
 ### SPLASH SCREEN  
 <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/splash_screen.png?raw=true" width="200">
-
 
 ### INTRO PAGE / WELLCOME PAGE  
 <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/Screenshot_1626660799.png?raw=true" width="200"><img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/Screenshot_1626660814.png?raw=true" width="200"><img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/Screenshot_1626660820.png?raw=true" width="200"> <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/Screenshot_1626660823.png?raw=true" width="200">
@@ -36,6 +34,9 @@ _`Probus Developer Team`_
 `button`  
 - create account / signup
 
+### View List Menu  
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/list_wmenu.png?raw=true" width="200"> <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/detail_menu.png?raw=true" width="200"> 
 
-
+### Register Page
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/register.png?raw=true" width="200">
 
