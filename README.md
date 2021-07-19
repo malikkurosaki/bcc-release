@@ -41,3 +41,36 @@ _`Probus Developer Team`_
 ### Register Page
 <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/register.png?raw=true" width="200">
 
+
+### Main App Page
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/main_app.png?raw=true" width="200">
+
+
+### Outlet
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/outlet.png?raw=true" width="200">
+
+
+### Detail Outlet
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/detail_outlet.png?raw=true" width="200">
+
+
+### Profile
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/profile.png?raw=true" width="200">
+
+
+### Profile
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/card_back.png?raw=true" width="200">
+
+
+### About
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/about.png?raw=true" width="200">
+
+
+### History
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/history.png?raw=true" width="200">
+
+
+### Term Service
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/term_service.png?raw=true" width="200">
+
+
