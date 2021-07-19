@@ -8,29 +8,33 @@ _`Probus Developer Team`_
 
 <hr>. 
 
-### SPLASH SCREEN
+### SPLASH SCREEN  
 <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/splash_screen.png?raw=true" width="200">
 
 
-### INTRO PAGE / WELLCOME PAGE
-
-
+### INTRO PAGE / WELLCOME PAGE  
 <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/Screenshot_1626660799.png?raw=true" width="200"><img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/Screenshot_1626660814.png?raw=true" width="200"><img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/Screenshot_1626660820.png?raw=true" width="200"> <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/Screenshot_1626660823.png?raw=true" width="200">
 
 *pada bagian ini adalah screen slide , artinya bisa diswipe kesamping dan di akhir ada tombol finis yang bisa ditekan*
 
-### ROOT PAGE
-
+### ROOT PAGE  
 <img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/login_page.png?raw=true" width="200">
 
-**Property**
-
+**Property**  
 - login button
 - view menu button
 - create account
 
-### LOGIN PAGE
+### LOGIN PAGE  
+<img src="https://github.com/malikkurosaki/bcc-release/blob/main/assets/images/login.png?raw=true" width="200">
 
+**Property**  
+`form`  
+- email
+- paassword
+
+`button`  
+- create account / signup
 
 
 
